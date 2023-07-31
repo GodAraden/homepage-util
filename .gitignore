@@ -1,0 +1,9 @@
+# 依赖
+node_modules
+
+# 产物
+navigator
+navigator.json
+
+# 源数据
+bookmarks.json

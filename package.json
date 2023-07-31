@@ -1,0 +1,17 @@
+{
+  "name": "homepage-util",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node main.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.4.5",
+    "puppeteer": "^20.9.0",
+    "ts-node": "^10.9.1"
+  }
+}
