@@ -3,7 +3,7 @@ node_modules
 
 # 产物
 navigator
-navigator.json
+navigator.ts
 
 # 源数据
 bookmarks.json
